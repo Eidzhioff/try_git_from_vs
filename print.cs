@@ -1,4 +1,2 @@
 Console.WriteLine("dsadsadas");
-//dasdsadasddadasdadadadad ������
-//asfasf
-//dasdasdasdsadsadsadasdasdsadsadsadsadsadsadsadas
+//dasdsadasddadasdadadadad привет
